@@ -1,0 +1,12 @@
+The ClaimsProxy library enables you to get a WIF cookie collection for a SharePoint site which is protected by Claims Based Authentication. It assumes that ADFS is configured as the Trusted Identity Token Issuer and that the down-stream identity provider is based on the StarterSTS / IdentityServer project.
+
+This repository includes both the ClaimsProxy library and a sample application.
+
+Todo:
+
+- Add support for multiple WIF cookies (FedAuthN etc)
+- Implement tracing to replace the DebugEvent delegate
+
+Any application utilising the library should implement some caching of the SharePoint cookie for the duration of it's lifetime against the requesting username to reduce authentication round-trips.
+
+See my blog http://www.huggill.com/ for more details.
