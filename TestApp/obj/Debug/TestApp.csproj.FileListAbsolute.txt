@@ -1,0 +1,14 @@
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\bin\TestApp.dll
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\bin\TestApp.pdb
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\obj\Debug\TestApp.dll
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\obj\Debug\TestApp.pdb
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\bin\ClaimsProxy.dll
+D:\sites\sharepoint\gsphere\claimsproxy\TestApp\bin\ClaimsProxy.pdb
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\bin\TestApp.dll
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\bin\TestApp.pdb
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\bin\ClaimsProxy.dll
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\bin\ClaimsProxy.pdb
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\obj\Debug\TestApp.dll
+D:\sites\sharepoint\gsphere\claimsproxy\claimsproxy-1.0-build\TestApp\obj\Debug\TestApp.pdb
